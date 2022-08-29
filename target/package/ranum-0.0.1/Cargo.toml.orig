@@ -1,0 +1,10 @@
+[package]
+name = "ranum"
+version = "0.0.1"
+edition = "2021"
+description = "A RUST library for generating truly random numbers"
+license = "Apache-2.0"
+
+repository = "https://github.com/JiranKurian/ranum"
+
+[dependencies]
